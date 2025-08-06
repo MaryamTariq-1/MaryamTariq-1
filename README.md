@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MaryamTariq
-- 👀 I’m interested in IT services
-- 🌱 I’m currently learning BSCS
 
 
 <!---
